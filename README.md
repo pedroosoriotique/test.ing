@@ -1,2 +1,2 @@
 # test.ing
-Repositorio de prueba
+Este es un repositorio para la realización de pruebas.
